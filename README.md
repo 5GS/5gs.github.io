@@ -1,2 +1,2 @@
-# 5gsystem.github.io
+# 5gs.github.io
 Public page demo
