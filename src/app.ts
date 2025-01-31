@@ -1,6 +1,6 @@
 import { LitElement, css, html } from 'lit'
 import { customElement } from 'lit/decorators.js'
-import logo5g from '/5g.png'
+import logo5g from '/5g_systems_atc-inv.svg'
 
 @customElement('my-app')
 export class App extends LitElement {
