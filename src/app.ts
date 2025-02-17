@@ -27,6 +27,7 @@ export class App extends LitElement {
 
     .container {
       width: 100%;
+      background-color: black;
     }
 
     .container img {
